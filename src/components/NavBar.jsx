@@ -32,7 +32,7 @@ export default function Navbar() {
 
                     {/* Links de navegação */}
                     <div className="hidden md:flex space-x-4">
-                        <Link to="/" className="text-gray-700 hover:text-indigo-600 font-medium" onClick={() => window.location.href = '/MustacheTroop/Home'}>Home</Link>
+                        <Link to="/" className="text-gray-700 hover:text-indigo-600 font-medium" onClick={() => window.location.href = '/MustacheTroop/'}>Home</Link>
                         <Link to="/clientes" className="text-gray-700 hover:text-indigo-600 font-medium" onClick={() => window.location.href = '/MustacheTroop/Clientes'}>Clientes</Link>
                         <Link to="/time" className="text-gray-700 hover:text-indigo-600 font-medium" onClick={() => window.location.href = '/MustacheTroop/Time'}>Time</Link>
                          <Link to="/" className="text-gray-700 hover:text-indigo-600 font-medium" onClick={() => window.location.href = '/MustacheTroop/Contato'}>Serviços</Link>

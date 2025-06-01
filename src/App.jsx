@@ -9,7 +9,7 @@ export default function App() {
     <Router basename="MustacheTroop">
       <div className="pt-20">
         <Routes>
-          <Route path="/Home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/clientes" element={<Clients />} />
           <Route path="/time" element={<Team />} />
           <Route path="/vendas" element={<Sales />} />
