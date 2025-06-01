@@ -6,7 +6,7 @@ import C4 from "../assets/cliente4.jpeg";
 import C5 from "../assets/cliente5.jpeg";
 import C6 from "../assets/cliente6.jpeg";
 import C7 from "../assets/cliente7.png";
-import C8 from "../assets/cliente8.jpeg";
+import C8 from "../assets/cliente8.jpg";
 import Navbar from "../components/NavBar";
 import Footer from "../components/Footer";
 export default function Clients() {
