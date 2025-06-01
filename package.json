@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kauanpickler.github.io/MustacheTroop/",
+  "homepage": "https://kauanpickler.github.io/mustachetroop/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
