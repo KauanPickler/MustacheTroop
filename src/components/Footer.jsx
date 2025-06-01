@@ -8,7 +8,7 @@ export default function Footer() {
           <h3 className="text-xl font-bold mb-4">Mustache Troop</h3>
           <p className="text-gray-400">Soluções em tecnologia, design e desenvolvimento.</p>
         </div>
-
+        
         <div>
           <h3 className="text-xl font-bold mb-4">Links Rápidos</h3>
           <ul className="space-y-2">

@@ -8,10 +8,10 @@ export default function App() {
     <>
       <div className="pt-20">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/clientes" element={<Clientes />} />
-          <Route path="/time" element={<Team />} />
-          <Route path="/vendas" element={<Sales />} />
+          <Route path="MustacheTroop/" element={<Home />} />
+          <Route path="MustacheTroop/clientes" element={<Clientes />} />
+          <Route path="MustacheTroop/time" element={<Team />} />
+          <Route path="MustacheTroop/vendas" element={<Sales />} />
         </Routes>
       </div>
     </>
